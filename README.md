@@ -39,7 +39,16 @@
   </a>
 </p>
 
-<h4 align="center">Visitor's count 👁️</h4>
+<h4 align="center">Metadata</h4>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/%7Bnickname73%7D/count.svg" />
+    <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/user.svg">
+    <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/organization.svg">
+</div>
+<div align="center">
+    <img align="top" alt="issues" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/issues.svg">
+    <img align="top" alt="issues-organization" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/issues-organization.svg">
+</div>
+<div align="center">
+    <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/habits.svg">
+    <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/languages.svg">
 </div>

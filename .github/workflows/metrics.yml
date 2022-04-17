@@ -53,7 +53,7 @@ jobs:
           use_prebuilt_image: yes
           # plugin
           filename: organization.svg
-          user: KatsuteDev
+          user: NiTiS-Dev
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: ${{ secrets.SKIPPED }}
 

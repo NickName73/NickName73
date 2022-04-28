@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="187" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="207" class="">
     <defs>
         <style/>
     </defs>
@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.04121253721934" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="421.04121253721934" y="0" width="38.958787462780705" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.34060262703474" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="440.34060262703474" y="0" width="19.659397372965213" height="8" fill="#178600"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,7 +35,7 @@
                             </div>
                             <small>
                                 <div>197 kB</div>
-                                <div>91.53%</div>
+                                <div>95.73%</div>
                             </small>
                         </div>
                     </section>
@@ -48,8 +48,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>18.2 kB</div>
-                                <div>8.47%</div>
+                                <div>8.81 kB</div>
+                                <div>4.27%</div>
                             </small>
                         </div>
                     </section>
@@ -57,14 +57,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 347 edited files from 233 commits over last 30 days</small>
+                <small>estimation from 307 edited files from 239 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.0275949717507" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="267.0275949717507" y="0" width="192.9724050282493" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.1997043338434" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="320.1997043338434" y="0" width="127.86990689109629" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="448.0696112249397" y="0" width="11.930388775060301" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -76,8 +77,20 @@
                                 C#
                             </div>
                             <small>
-                                <div>92.2 kB</div>
-                                <div>58.05%</div>
+                                <div>80.5 kB</div>
+                                <div>69.61%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                HTML
+                            </div>
+                            <small>
+                                <div>3 kB</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                     </section>
@@ -90,8 +103,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>66.6 kB</div>
-                                <div>41.95%</div>
+                                <div>32.1 kB</div>
+                                <div>27.8%</div>
                             </small>
                         </div>
                     </section>

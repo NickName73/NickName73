@@ -57,15 +57,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 307 edited files from 239 commits over last 27 days</small>
+                <small>estimation from 305 edited files from 239 commits over last 27 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.1997043338434" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="320.1997043338434" y="0" width="127.86990689109629" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="448.0696112249397" y="0" width="11.930388775060301" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="314.6861752553348" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="314.6861752553348" y="0" width="132.97189976210493" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.65807501743967" y="0" width="12.341924982560323" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -77,8 +77,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>80.5 kB</div>
-                                <div>69.61%</div>
+                                <div>76.4 kB</div>
+                                <div>68.41%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -90,7 +90,7 @@
                             </div>
                             <small>
                                 <div>3 kB</div>
-                                <div>2.59%</div>
+                                <div>2.68%</div>
                             </small>
                         </div>
                     </section>
@@ -103,8 +103,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>32.1 kB</div>
-                                <div>27.8%</div>
+                                <div>32.3 kB</div>
+                                <div>28.91%</div>
                             </small>
                         </div>
                     </section>

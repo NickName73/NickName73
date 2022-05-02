@@ -31,7 +31,7 @@
   <a href="https://github.com/NiTiS-Dev/NiTiSCore" alt="NiTiS.Core">
     <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Badges/profile-ntscr.png" />
   </a>
-  <a href="https://github.com/NickName73/Gravillaso" alt="Gravillaso">
+  <a href="https://github.com/NickName73/GRavillaso" alt="GRavillaso">
     <img width="33%" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Badges/profile-grvls.png" />
   </a>
   <a href="https://github.com/NickName73/MoreDumbItems" alt="Gravillaso">

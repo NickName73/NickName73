@@ -39,7 +39,12 @@
   </a>
 </p>
 
-<h4 align="center">Metadata</h4>
+---
+
+<h1 align="center">
+  Metadata
+</h1>
+
 <div align="center">
     <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/user.svg">
     <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/organization.svg">
@@ -51,4 +56,10 @@
 <div align="center">
     <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/habits.svg">
     <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/NickName73/NickName73/main/Metrics/languages.svg">
+</div>
+
+---
+
+<div align="center">
+    <img align="top" alt="counter" width="350" src="https://count.getloli.com/get/@:nickname73?theme=gelbooru34"
 </div>

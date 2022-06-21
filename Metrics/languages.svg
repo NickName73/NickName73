@@ -70,15 +70,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 172 edited files from 240 commits over last 15 days</small>
+                <small>estimation from 178 edited files from 250 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.39044408617906" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="402.39044408617906" y="0" width="31.866725291904835" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="434.2571693780839" y="0" width="25.742830621916067" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.72608396421197" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="409.72608396421197" y="0" width="29.55107659030577" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.2771605545177" y="0" width="20.722839445482254" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,8 +90,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>35.8 kB</div>
-                                <div>87.48%</div>
+                                <div>45.3 kB</div>
+                                <div>89.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>2.29 kB</div>
-                                <div>5.6%</div>
+                                <div>4.5%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.84 kB</div>
-                                <div>6.93%</div>
+                                <div>3.27 kB</div>
+                                <div>6.42%</div>
                             </small>
                         </div>
                     </section>

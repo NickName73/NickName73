@@ -70,15 +70,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 178 edited files from 254 commits over last 13 days</small>
+                <small>estimation from 173 edited files from 254 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.5334100011897" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="417.5334100011897" y="0" width="21.57076575326169" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.1041757544514" y="0" width="20.89582424554864" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="401.10870717061107" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="401.10870717061107" y="0" width="35.62522077004592" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="436.733927940657" y="0" width="23.26607205934299" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -90,8 +90,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>45.7 kB</div>
-                                <div>90.77%</div>
+                                <div>39.5 kB</div>
+                                <div>87.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>2.29 kB</div>
-                                <div>4.54%</div>
+                                <div>5.06%</div>
                             </small>
                         </div>
                     </section>
@@ -116,8 +116,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>2.37 kB</div>
-                                <div>4.69%</div>
+                                <div>3.51 kB</div>
+                                <div>7.74%</div>
                             </small>
                         </div>
                     </section>

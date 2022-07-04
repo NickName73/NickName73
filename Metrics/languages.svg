@@ -70,14 +70,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 153 edited files from 263 commits over last 21 days</small>
+                <small>estimation from 167 edited files from 263 commits over last 22 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.49760664878227" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.49760664878227" y="0" width="19.502393351217716" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.38940160087077" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.38940160087077" y="0" width="12.610598399129271" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -89,8 +89,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>54.6 kB</div>
-                                <div>95.76%</div>
+                                <div>85.7 kB</div>
+                                <div>97.26%</div>
                             </small>
                         </div>
                     </section>
@@ -104,7 +104,7 @@
                             </div>
                             <small>
                                 <div>2.42 kB</div>
-                                <div>4.24%</div>
+                                <div>2.74%</div>
                             </small>
                         </div>
                     </section>

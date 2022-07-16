@@ -17,8 +17,15 @@
 
 <div align="center">
   <h3 align="center">
-    Im creator of some NiTiS items. I most uses C#. You can visit my 
-    <a href="https://nickname73.github.io/NickName73">official website</a>
+    Im creator of some NiTiS items. I most uses C#. You can visit my  
+    <a href="nickname73.github.io">official website</a>
+  </h3>
+  <h2 align="center">
+      I am a member of several <i>organizations</i><br/>
+  </h2>
+  <h3>
+    • <a href="github.com/NiTiS-Dev">NiTiS-Dev</a> - Some libs, utils, and projects
+    • <a href="github.com/SkyFactureGame">NiTiS-Dev</a> - My game
   </h3>
 </div>
   

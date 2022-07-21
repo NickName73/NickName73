@@ -25,7 +25,7 @@
   </h2>
   <h3>
     • <a href="github.com/NiTiS-Dev">NiTiS-Dev</a> - Some libs, utils, and projects<br/>
-    • <a href="github.com/SkyFactureGame">NiTiS-Dev</a> - My game
+    • <a href="github.com/SkyFactureGame">SkyFacture</a> - My game
   </h3>
 </div>
   
